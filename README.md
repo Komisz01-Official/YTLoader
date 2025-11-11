@@ -20,5 +20,3 @@ Installation:
 2. Follow the installation wizard
 3. Launch from Start Menu or Desktop
 
-Support:
-For support issues, contact: support@yourcompany.com
